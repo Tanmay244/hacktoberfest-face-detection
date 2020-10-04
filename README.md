@@ -1,4 +1,4 @@
-# face-mask-detection-keras
+# face_mask_detection_keras
 
 This project is implemented in Python using Keras, Tensorflow and OpenCV.
 
